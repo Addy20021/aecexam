@@ -1,1 +1,1 @@
-file 1 is addded in the first commit
+file 1 is  only addded in the second commit with new comments
